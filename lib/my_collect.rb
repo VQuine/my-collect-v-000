@@ -8,3 +8,7 @@ def my_collect(array)
   end
   new_array
 end
+
+
+#I can follow patterns and build this..
+#But I seriously don't know what's going on..
